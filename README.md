@@ -70,8 +70,8 @@ According to local inference of Qwen3-14B-UD-Q8_K_XL.
 - **LLM Integration**: Local Qwen 3B for strategic analysis
 
 ## Files
-- `mmm_analysis.ipynb` - Main analysis notebook
-- `summary_output.html` - Complete model report
+- `meridian.ipynb` - Main analysis notebook
+- `exports/summary_output.html` - Complete model report
 - `data/` - Source data
 - `README.md` - This file
 
